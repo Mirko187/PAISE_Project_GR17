@@ -70,6 +70,8 @@ Details: [`docs/requirements.md`](docs/requirements.md)
 | Datei | Inhalt |
 |---|---|
 | [`docs/requirements.md`](docs/requirements.md) | Anforderungen und User Stories (MVP) |
+| [`docs/mvp.md`](docs/mvp.md) | MVP-Scope, enthaltene und ausgeschlossene Funktionen |
+| [`docs/ai-usage.md`](docs/ai-usage.md) | AI-Einsatz, Prompts, Ergebnisse und kritische Bewertung |
 
 ## Projektstatus
 
